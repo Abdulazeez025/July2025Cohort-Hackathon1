@@ -8,13 +8,31 @@ Project Requirements
 
 - Build a clean, responsive, and SEO-friendly website using HTML5 and CSS
 - Include the following sections:
-    - **About Me**: A brief introduction to who you are and what you do
-    - **Skills**: A categorized list of your technical skills
-    - **EDUCATION:** A section highlighting your educational background, with a downloadable CV
-    - **Projects**: A showcase of your projects, with images and links
-    - **Interests**: A section highlighting your interests, with a grid layout
-    - **Contact**: A section with contact information and a call-to-action
+    - **CAREER OBJECTIVES:** I am Abdulazeez Oluwadamilola IYIOLA. A 500 level veterinary student at Ahmadu Bello University, Zaria, Kaduna State, Nigeria. I am a member of the PLP ACADEMY July 2025 Cohort. Within the first three weeks, I have gained satisfactory knowledge in Programming language like HTML (Hypertext Markup Language) and CSS (Cascade Style Sheet).
+    - **ABOUT ME:** As an individual driven by curiosity and passion for veterinary innovation and software development. I am dedicated to harnessing the power of technology to improve animal healthcare. With a strong foundation in computer application in veterinary medicine and a growing skills in software development, I am excited to explore innovative solutions that
+transform the animal welfare. I am committed in the lifelong learning, creative problem-solving and collaboration with a mission of making a meaningful impact at the intersection of tech and veterinary medicine.
+    - **SKILLS:** Graphics design
+    - **EDUCATION:** I am currently pursuing a degree in Veterinary Medicine , which has provide me with a strong foundation in veterinary innovation and computer application. Throughout my academic journey, i have developed a passion for technology incorporation in veterinary medicine and software development and gained valuable knowledge and skills. My education
+and desire to improve my literacy in technology has equipped me with critical thinking, problem-solving and teamwork to prepared me for a successful career in my chosen field.
 
+    - **Curriculum Vitae**
+For a more detailed overview of my qualifications and experience, please view or download my CV:
+
+**View My CV**
+
+    - Linkedin logo Linkedin profile
+For a more detailed overview of my qualifications and experience, please view my Linkedin profile:
+
+**View My profile**
+
+    - **Interests:** Web Development: Exploring modern frameworks and best practices.
+                     Tech Innovations: Keeping up with emerging trends in technology.
+                     
+    - **Projects:** Project 1
+                    Project 2
+                    
+    - **Contact:**  email: ayokunleabdulazeez@gmail.com
+                    Phone number: +2348103154077
 Submission Guidelines
 
 
